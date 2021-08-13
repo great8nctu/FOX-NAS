@@ -5,10 +5,11 @@
 
 ![](https://raw.githubusercontent.com/great8nctu/FOX-NAS/main/figures/1.png)
 
-# Performance
-
+# Performance Comparison on Edge CPU
 ![](https://raw.githubusercontent.com/great8nctu/FOX-NAS/main/figures/2.png)
 
+# Performance Comparison on Edge TPU
 ![](https://raw.githubusercontent.com/great8nctu/FOX-NAS/main/figures/3.png)
 
+# Performance Comparison on Cloud GPU
 ![](https://raw.githubusercontent.com/great8nctu/FOX-NAS/main/figures/4.png)
